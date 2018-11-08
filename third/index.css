@@ -1,0 +1,36 @@
+div {
+    height: 100px;
+    background-color: grey;
+    padding: 15px 25px;
+    text-align: left;
+    font-size: 20px;
+}
+
+.little {
+    height: 70px;
+    width: 70px;
+    background-color: blue;
+    
+}
+
+.text {
+    background-color:white;
+    height: 150px;
+    margin-top: 80px;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.aqua {
+    background-color:aqua;
+}
+
+.green {
+    background-color:yellowgreen;
+}
+
+.yellow {
+    background-color:yellow;
+}

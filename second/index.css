@@ -1,0 +1,71 @@
+.shape {
+    border: 2px solid black;
+    margin: 10px 2vw;
+    height: 200px;
+    width: 96vw;
+    padding: 25px;
+    position: relative;
+}
+
+#purple {
+    display: inline-block;
+    height: 100px;
+    width: 30px;
+    background-color: purple;
+    margin: 50px 20px 20px 0px;
+    position: absolute;
+    bottom: 0;
+}
+
+#green {
+    display: inline-block;
+    /* float: right; */
+    background-color: green;
+    height: 180px;
+    width: 300px;
+    margin: 0px 20px 20px 70px;
+    position: absolute;
+    bottom: 0;
+}
+
+#blue {
+    display: inline-block;
+    background-color:lightblue;
+    height: 180px;
+    width: 180px;
+    border-radius: 50%;
+    margin: 0px 20px 20px 400px;
+   position: absolute;
+   bottom: 0;
+}
+
+.dotted {
+    border: 5px dotted black;
+    margin: 10px 2vw;
+    height: 200px;
+    width: 96vw;
+    padding: 25px;
+}
+
+#box {
+    background-color: tan;
+    width: 100%;
+    height: 100%;
+    box-shadow: 6px 6px 10px;
+    
+}
+
+.third {
+    margin: 10px 30vw;
+    border: 5px gray;
+    box-shadow: 4px 4px 20px;
+    height: 200px;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(13, 13, 26);
+    padding-top: 170px;
+}
+
+#friend {
+   
+}
